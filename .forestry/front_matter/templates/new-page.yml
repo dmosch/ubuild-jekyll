@@ -2,6 +2,25 @@
 label: new-page
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: layout
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Layout
+- name: date
+  type: text
+  config:
+    required: false
+  label: Date
 - name: page-blocks-custom
   type: blocks
   label: page-blocks-custom
