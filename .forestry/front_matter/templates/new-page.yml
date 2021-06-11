@@ -8,19 +8,20 @@ fields:
     required: false
   label: Title
 - name: layout
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Layout
-- name: date
   type: text
   config:
     required: false
+  label: Layout
+  default: blocks
+- name: date
+  type: datetime
   label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - name: page-blocks-custom
   type: blocks
   label: page-blocks-custom
