@@ -13,6 +13,7 @@ fields:
     required: false
   label: Layout
   default: blocks
+  hidden: true
 - name: date
   type: datetime
   label: Date
@@ -22,9 +23,9 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: page-blocks-custom
+- name: page-sections
   type: blocks
-  label: page-blocks-custom
+  label: Page Sections
   template_types:
   - map-field-template
   - navigation-header
