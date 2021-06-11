@@ -4,9 +4,10 @@ page-blocks-custom:
   block: header-3
   logo: "/uploads/2021/06/11/thebunkermap_logo_small.png"
 - template: map-field-template
-  map-field: ''
+  map-field: "<p></p>"
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: Work in progress
 
 ---
+<iframe src="https://www.google.com/maps/d/embed?mid=1QYGsiVQbqc1EShkHCZKout43QDP10q4F" width="640" height="480"></iframe>
