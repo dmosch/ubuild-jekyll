@@ -34,3 +34,4 @@ fields:
   - map-field-template
 pages:
 - index.md
+- page-builder-test.md
