@@ -77,9 +77,6 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
-- template: map-field-template
-  map-field: <p>&lt;iframe src="https://www.google.com/maps/d/embed?mid=1QYGsiVQbqc1EShkHCZKout43QDP10q4F"
-    width="640" height="480"&gt;&lt;/iframe&gt;</p>
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
