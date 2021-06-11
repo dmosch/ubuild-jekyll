@@ -12,3 +12,5 @@ fields:
       format: html-blocks
   label: map-field
   description: Instert HTML map code
+pages:
+- map-file.md
