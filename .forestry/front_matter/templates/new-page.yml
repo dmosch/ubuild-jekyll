@@ -1,0 +1,29 @@
+---
+label: new-page
+hide_body: false
+fields:
+- name: page-blocks-custom
+  type: blocks
+  label: page-blocks-custom
+  template_types:
+  - map-field-template
+  - navigation-header
+  - 3-column-text
+  - detail-content
+  - 2-column-media-element
+  - hero-banner-w-image
+  - navigation-header-w-button
+  - content-feature
+  - text-column
+  - full-width-media-element
+  - 4-column-footer
+  - text-only-hero-banner
+  - text-1
+  - 1-column-text
+  - simple-footer
+  - 2-column-text
+  - default
+  - simple-header
+  config:
+    min: 
+    max: 
