@@ -9,6 +9,9 @@ page-blocks-custom:
 - template: simple-footer
   block: footer-1
   content: Work in progress
+title: Landing Page Test
+layout: blocks
+date: 2021-06-10 22:00:00 +0000
 
 ---
 <iframe src="https://www.google.com/maps/d/embed?mid=1QYGsiVQbqc1EShkHCZKout43QDP10q4F" width="640" height="480"></iframe>
