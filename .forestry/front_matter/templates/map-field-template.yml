@@ -1,6 +1,6 @@
 ---
 label: map-field-template
-hide_body: true
+hide_body: false
 fields:
 - name: map-field
   type: textarea
